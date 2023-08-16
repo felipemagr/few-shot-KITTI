@@ -1,0 +1,581 @@
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Batch size: 100
+Initiallize new Network Weights for enc_nn
+Initiallize new Network Weights for metric_nn
+EmbeddingImagenet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), bias=False)
+  (bn2): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv3): Conv2d(96, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_3): Dropout2d(p=0.4, inplace=False)
+  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_4): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=6400, out_features=128, bias=True)
+  (bn_fc): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+)
+MetricNN(
+  (gnn_obj): GNN_nl(
+    (layer_w0): Wcompute(
+      (conv2d_1): Conv2d(133, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l0): Gconv(
+      (fc): Linear(in_features=266, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (layer_w1): Wcompute(
+      (conv2d_1): Conv2d(181, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l1): Gconv(
+      (fc): Linear(in_features=362, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (w_comp_last): Wcompute(
+      (conv2d_1): Conv2d(229, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_last): Gconv(
+      (fc): Linear(in_features=458, out_features=5, bias=True)
+    )
+  )
+)
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Batch size: 100
+Initiallize new Network Weights for enc_nn
+Initiallize new Network Weights for metric_nn
+EmbeddingImagenet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), bias=False)
+  (bn2): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv3): Conv2d(96, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_3): Dropout2d(p=0.4, inplace=False)
+  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_4): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=6400, out_features=128, bias=True)
+  (bn_fc): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+)
+MetricNN(
+  (gnn_obj): GNN_nl(
+    (layer_w0): Wcompute(
+      (conv2d_1): Conv2d(133, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l0): Gconv(
+      (fc): Linear(in_features=266, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (layer_w1): Wcompute(
+      (conv2d_1): Conv2d(181, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l1): Gconv(
+      (fc): Linear(in_features=362, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (w_comp_last): Wcompute(
+      (conv2d_1): Conv2d(229, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_last): Gconv(
+      (fc): Linear(in_features=458, out_features=5, bias=True)
+    )
+  )
+)
+Train Iter: 0	Loss_d_metric: 1.628068
+Train Iter: 20	Loss_d_metric: 1.803971
+
+**** TESTING WITH val ***
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='kitti', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='kitti_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Batch size: 100
+Initiallize new Network Weights for enc_nn
+Initiallize new Network Weights for metric_nn
+EmbeddingImagenet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), bias=False)
+  (bn2): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv3): Conv2d(96, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_3): Dropout2d(p=0.4, inplace=False)
+  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_4): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=6400, out_features=128, bias=True)
+  (bn_fc): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+)
+MetricNN(
+  (gnn_obj): GNN_nl(
+    (layer_w0): Wcompute(
+      (conv2d_1): Conv2d(133, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l0): Gconv(
+      (fc): Linear(in_features=266, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (layer_w1): Wcompute(
+      (conv2d_1): Conv2d(181, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l1): Gconv(
+      (fc): Linear(in_features=362, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (w_comp_last): Wcompute(
+      (conv2d_1): Conv2d(229, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_last): Gconv(
+      (fc): Linear(in_features=458, out_features=5, bias=True)
+    )
+  )
+)
+Train Iter: 0	Loss_d_metric: 1.660635
+Train Iter: 20	Loss_d_metric: 1.799668
+
+**** TESTING WITH test ***
+91 correct from 500 	Accuracy: 18.200%)
+*** TEST FINISHED ***
+
+
+**** TESTING WITH train ***
+19 correct from 100 	Accuracy: 19.000%)
+*** TEST FINISHED ***
+
+Train Iter: 40	Loss_d_metric: 1.652447
+Train Iter: 60	Loss_d_metric: 1.635516
+Train Iter: 80	Loss_d_metric: 1.634991
+Train Iter: 100	Loss_d_metric: 1.615773
+Train Iter: 120	Loss_d_metric: 1.570569
+Train Iter: 140	Loss_d_metric: 1.485791
+Train Iter: 160	Loss_d_metric: 1.276505
+Train Iter: 180	Loss_d_metric: 0.941803
+Train Iter: 200	Loss_d_metric: 0.734869
+Train Iter: 220	Loss_d_metric: 0.651249
+Train Iter: 240	Loss_d_metric: 0.590706
+Train Iter: 260	Loss_d_metric: 0.550407
+Train Iter: 280	Loss_d_metric: 0.476085
+Train Iter: 300	Loss_d_metric: 0.445744
+Train Iter: 320	Loss_d_metric: 0.415959
+Train Iter: 340	Loss_d_metric: 0.379695
+Train Iter: 360	Loss_d_metric: 0.337815
+Train Iter: 380	Loss_d_metric: 0.343454
+Train Iter: 400	Loss_d_metric: 0.358863
+Train Iter: 420	Loss_d_metric: 0.321013
+Train Iter: 440	Loss_d_metric: 0.319241
+Train Iter: 460	Loss_d_metric: 0.296718
+Train Iter: 480	Loss_d_metric: 0.297028
+Train Iter: 500	Loss_d_metric: 0.288938
+Train Iter: 520	Loss_d_metric: 0.290734
+Train Iter: 540	Loss_d_metric: 0.275413
+Train Iter: 560	Loss_d_metric: 0.240518
+Train Iter: 580	Loss_d_metric: 0.239400
+Train Iter: 600	Loss_d_metric: 0.256756
+Train Iter: 620	Loss_d_metric: 0.229738
+Train Iter: 640	Loss_d_metric: 0.249983
+Train Iter: 660	Loss_d_metric: 0.233659
+Train Iter: 680	Loss_d_metric: 0.222052
+Train Iter: 700	Loss_d_metric: 0.196051
+Train Iter: 720	Loss_d_metric: 0.207612
+Train Iter: 740	Loss_d_metric: 0.199201
+Train Iter: 760	Loss_d_metric: 0.199154
+Train Iter: 780	Loss_d_metric: 0.207013
+Train Iter: 800	Loss_d_metric: 0.194929
+Train Iter: 820	Loss_d_metric: 0.192288
+Train Iter: 840	Loss_d_metric: 0.219269
+Train Iter: 860	Loss_d_metric: 0.208880
+Train Iter: 880	Loss_d_metric: 0.177748
+Train Iter: 900	Loss_d_metric: 0.200174
+Train Iter: 920	Loss_d_metric: 0.208567
+Train Iter: 940	Loss_d_metric: 0.182179
+Train Iter: 960	Loss_d_metric: 0.191448
+Train Iter: 980	Loss_d_metric: 0.182233
+
+**** TESTING WITH test ***
+930 correct from 1000 	Accuracy: 93.000%)
+1853 correct from 2000 	Accuracy: 92.650%)
+2767 correct from 3000 	Accuracy: 92.233%)
+3683 correct from 4000 	Accuracy: 92.075%)
+4616 correct from 5000 	Accuracy: 92.320%)
+5531 correct from 6000 	Accuracy: 92.183%)
+6450 correct from 7000 	Accuracy: 92.143%)
+7369 correct from 8000 	Accuracy: 92.112%)
+8292 correct from 9000 	Accuracy: 92.133%)
+9206 correct from 10000 	Accuracy: 92.060%)
+10115 correct from 11000 	Accuracy: 91.955%)
+11043 correct from 12000 	Accuracy: 92.025%)
+11959 correct from 13000 	Accuracy: 91.992%)
+12863 correct from 14000 	Accuracy: 91.879%)
+13793 correct from 15000 	Accuracy: 91.953%)
+14698 correct from 16000 	Accuracy: 91.862%)
+15624 correct from 17000 	Accuracy: 91.906%)
+16545 correct from 18000 	Accuracy: 91.917%)
+17464 correct from 19000 	Accuracy: 91.916%)
+18380 correct from 20000 	Accuracy: 91.900%)
+19304 correct from 21000 	Accuracy: 91.924%)
+20243 correct from 22000 	Accuracy: 92.014%)
+21154 correct from 23000 	Accuracy: 91.974%)
+22081 correct from 24000 	Accuracy: 92.004%)
+23007 correct from 25000 	Accuracy: 92.028%)
+23923 correct from 26000 	Accuracy: 92.012%)
+24841 correct from 27000 	Accuracy: 92.004%)
+25758 correct from 28000 	Accuracy: 91.993%)
+26681 correct from 29000 	Accuracy: 92.003%)
+27626 correct from 30000 	Accuracy: 92.087%)
+27626 correct from 30000 	Accuracy: 92.087%)
+*** TEST FINISHED ***
+
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Batch size: 100
+Initiallize new Network Weights for enc_nn
+Initiallize new Network Weights for metric_nn
+EmbeddingImagenet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), bias=False)
+  (bn2): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv3): Conv2d(96, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_3): Dropout2d(p=0.4, inplace=False)
+  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_4): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=6400, out_features=128, bias=True)
+  (bn_fc): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+)
+MetricNN(
+  (gnn_obj): GNN_nl(
+    (layer_w0): Wcompute(
+      (conv2d_1): Conv2d(133, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l0): Gconv(
+      (fc): Linear(in_features=266, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (layer_w1): Wcompute(
+      (conv2d_1): Conv2d(181, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l1): Gconv(
+      (fc): Linear(in_features=362, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (w_comp_last): Wcompute(
+      (conv2d_1): Conv2d(229, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_last): Gconv(
+      (fc): Linear(in_features=458, out_features=5, bias=True)
+    )
+  )
+)
+Train Iter: 0	Loss_d_metric: 1.654675
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Batch size: 100
+Initiallize new Network Weights for enc_nn
+Initiallize new Network Weights for metric_nn
+EmbeddingImagenet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), bias=False)
+  (bn2): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv3): Conv2d(96, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_3): Dropout2d(p=0.4, inplace=False)
+  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_4): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=6400, out_features=128, bias=True)
+  (bn_fc): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+)
+MetricNN(
+  (gnn_obj): GNN_nl(
+    (layer_w0): Wcompute(
+      (conv2d_1): Conv2d(133, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l0): Gconv(
+      (fc): Linear(in_features=266, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (layer_w1): Wcompute(
+      (conv2d_1): Conv2d(181, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l1): Gconv(
+      (fc): Linear(in_features=362, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (w_comp_last): Wcompute(
+      (conv2d_1): Conv2d(229, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_last): Gconv(
+      (fc): Linear(in_features=458, out_features=5, bias=True)
+    )
+  )
+)
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Namespace(exp_name='kitti_N5_S1', batch_size=100, batch_size_test=10, iterations=1000, decay_interval=10000, lr=0.001, momentum=0.5, no_cuda=False, seed=1, log_interval=20, save_interval=300000, test_interval=2000, test_N_way=5, train_N_way=5, test_N_shots=1, train_N_shots=1, unlabeled_extra=0, metric_network='gnn_iclr_nl', active_random=0, dataset_root='datasets', test_samples=30000, dataset='kitti', dec_lr=15000)
+Using CPU
+Batch size: 100
+Initiallize new Network Weights for enc_nn
+Initiallize new Network Weights for metric_nn
+EmbeddingImagenet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), bias=False)
+  (bn2): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv3): Conv2d(96, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_3): Dropout2d(p=0.4, inplace=False)
+  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_4): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=6400, out_features=128, bias=True)
+  (bn_fc): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+)
+MetricNN(
+  (gnn_obj): GNN_nl(
+    (layer_w0): Wcompute(
+      (conv2d_1): Conv2d(133, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l0): Gconv(
+      (fc): Linear(in_features=266, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (layer_w1): Wcompute(
+      (conv2d_1): Conv2d(181, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l1): Gconv(
+      (fc): Linear(in_features=362, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (w_comp_last): Wcompute(
+      (conv2d_1): Conv2d(229, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_last): Gconv(
+      (fc): Linear(in_features=458, out_features=5, bias=True)
+    )
+  )
+)
+Train Iter: 0	Loss_d_metric: 1.621676
+Train Iter: 20	Loss_d_metric: 1.790879
+
+**** TESTING WITH test ***
+101 correct from 500 	Accuracy: 20.200%)
+*** TEST FINISHED ***
+
+
+**** TESTING WITH train ***
+14 correct from 100 	Accuracy: 14.000%)
+*** TEST FINISHED ***
+
+Train Iter: 40	Loss_d_metric: 1.664631
+Train Iter: 60	Loss_d_metric: 1.632343
+Train Iter: 80	Loss_d_metric: 1.631006

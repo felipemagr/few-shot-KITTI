@@ -1,0 +1,169 @@
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='mini_imagenet', dataset_root='datasets', dec_lr=15000, decay_interval=10000, exp_name='minimagenet_N5_S1', iterations=1000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=1, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=1, train_N_way=5, unlabeled_extra=0)
+Using CPU
+Batch size: 100
+Initiallize new Network Weights for enc_nn
+Initiallize new Network Weights for metric_nn
+EmbeddingImagenet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), bias=False)
+  (bn2): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv3): Conv2d(96, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_3): Dropout2d(p=0.4, inplace=False)
+  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (drop_4): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=6400, out_features=128, bias=True)
+  (bn_fc): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+)
+MetricNN(
+  (gnn_obj): GNN_nl(
+    (layer_w0): Wcompute(
+      (conv2d_1): Conv2d(133, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l0): Gconv(
+      (fc): Linear(in_features=266, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (layer_w1): Wcompute(
+      (conv2d_1): Conv2d(181, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_l1): Gconv(
+      (fc): Linear(in_features=362, out_features=48, bias=True)
+      (bn): BatchNorm1d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (w_comp_last): Wcompute(
+      (conv2d_1): Conv2d(229, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_2): Conv2d(192, 192, kernel_size=(1, 1), stride=(1, 1))
+      (bn_2): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_3): Conv2d(192, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_3): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_4): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1))
+      (bn_4): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2d_last): Conv2d(96, 1, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (layer_last): Gconv(
+      (fc): Linear(in_features=458, out_features=5, bias=True)
+    )
+  )
+)
+Train Iter: 0	Loss_d_metric: 1.642311
+Train Iter: 20	Loss_d_metric: 1.779660
+
+**** TESTING WITH val ***
+92 correct from 500 	Accuracy: 18.400%)
+*** TEST FINISHED ***
+
+
+**** TESTING WITH test ***
+97 correct from 500 	Accuracy: 19.400%)
+*** TEST FINISHED ***
+
+
+**** TESTING WITH train ***
+23 correct from 100 	Accuracy: 23.000%)
+*** TEST FINISHED ***
+
+Best test accuracy 19.4000 
+
+Train Iter: 40	Loss_d_metric: 1.652881
+Train Iter: 60	Loss_d_metric: 1.638498
+Train Iter: 80	Loss_d_metric: 1.628458
+Train Iter: 100	Loss_d_metric: 1.631318
+Train Iter: 120	Loss_d_metric: 1.619837
+Train Iter: 140	Loss_d_metric: 1.624684
+Train Iter: 160	Loss_d_metric: 1.622262
+Train Iter: 180	Loss_d_metric: 1.623755
+Train Iter: 200	Loss_d_metric: 1.622465
+Train Iter: 220	Loss_d_metric: 1.625046
+Train Iter: 240	Loss_d_metric: 1.629111
+Train Iter: 260	Loss_d_metric: 1.626814
+Train Iter: 280	Loss_d_metric: 1.617025
+Train Iter: 300	Loss_d_metric: 1.624886
+Train Iter: 320	Loss_d_metric: 1.633672
+Train Iter: 340	Loss_d_metric: 1.619982
+Train Iter: 360	Loss_d_metric: 1.630129
+Train Iter: 380	Loss_d_metric: 1.628456
+Train Iter: 400	Loss_d_metric: 1.627579
+Train Iter: 420	Loss_d_metric: 1.623523
+Train Iter: 440	Loss_d_metric: 1.619256
+Train Iter: 460	Loss_d_metric: 1.620354
+Train Iter: 480	Loss_d_metric: 1.622918
+Train Iter: 500	Loss_d_metric: 1.623388
+Train Iter: 520	Loss_d_metric: 1.627333
+Train Iter: 540	Loss_d_metric: 1.620898
+Train Iter: 560	Loss_d_metric: 1.634272
+Train Iter: 580	Loss_d_metric: 1.625099
+Train Iter: 600	Loss_d_metric: 1.620508
+Train Iter: 620	Loss_d_metric: 1.627161
+Train Iter: 640	Loss_d_metric: 1.629258
+Train Iter: 660	Loss_d_metric: 1.632387
+Train Iter: 680	Loss_d_metric: 1.631399
+Train Iter: 700	Loss_d_metric: 1.625913
+Train Iter: 720	Loss_d_metric: 1.623672
+Train Iter: 740	Loss_d_metric: 1.618631
+Train Iter: 760	Loss_d_metric: 1.631193
+Train Iter: 780	Loss_d_metric: 1.616606
+Train Iter: 800	Loss_d_metric: 1.618664
+Train Iter: 820	Loss_d_metric: 1.617685
+Train Iter: 840	Loss_d_metric: 1.615495
+Train Iter: 860	Loss_d_metric: 1.621650
+Train Iter: 880	Loss_d_metric: 1.618309
+Train Iter: 900	Loss_d_metric: 1.618002
+Train Iter: 920	Loss_d_metric: 1.619172
+Train Iter: 940	Loss_d_metric: 1.611254
+Train Iter: 960	Loss_d_metric: 1.619637
+Train Iter: 980	Loss_d_metric: 1.618558
+
+**** TESTING WITH test ***
+195 correct from 1000 	Accuracy: 19.500%)
+410 correct from 2000 	Accuracy: 20.500%)
+595 correct from 3000 	Accuracy: 19.833%)
+802 correct from 4000 	Accuracy: 20.050%)
+1029 correct from 5000 	Accuracy: 20.580%)
+1231 correct from 6000 	Accuracy: 20.517%)
+1443 correct from 7000 	Accuracy: 20.614%)
+1638 correct from 8000 	Accuracy: 20.475%)
+1850 correct from 9000 	Accuracy: 20.556%)
+2053 correct from 10000 	Accuracy: 20.530%)
+2265 correct from 11000 	Accuracy: 20.591%)
+2499 correct from 12000 	Accuracy: 20.825%)
+2688 correct from 13000 	Accuracy: 20.677%)
+2895 correct from 14000 	Accuracy: 20.679%)
+3114 correct from 15000 	Accuracy: 20.760%)
+3308 correct from 16000 	Accuracy: 20.675%)
+3544 correct from 17000 	Accuracy: 20.847%)
+3759 correct from 18000 	Accuracy: 20.883%)
+3942 correct from 19000 	Accuracy: 20.747%)
+4135 correct from 20000 	Accuracy: 20.675%)
+4337 correct from 21000 	Accuracy: 20.652%)
+4534 correct from 22000 	Accuracy: 20.609%)
+4743 correct from 23000 	Accuracy: 20.622%)
+4962 correct from 24000 	Accuracy: 20.675%)
+5161 correct from 25000 	Accuracy: 20.644%)
+5374 correct from 26000 	Accuracy: 20.669%)
+5586 correct from 27000 	Accuracy: 20.689%)
+5797 correct from 28000 	Accuracy: 20.704%)
+6013 correct from 29000 	Accuracy: 20.734%)
+6211 correct from 30000 	Accuracy: 20.703%)
+6211 correct from 30000 	Accuracy: 20.703%)
+*** TEST FINISHED ***
+

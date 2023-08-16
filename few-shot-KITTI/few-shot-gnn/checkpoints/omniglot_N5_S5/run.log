@@ -1,0 +1,2 @@
+Namespace(active_random=0, batch_size=100, batch_size_test=10, dataset='omniglot', dataset_root='datasets', dec_lr=10000, decay_interval=10000, exp_name='omniglot_N5_S5', iterations=80000, log_interval=20, lr=0.001, metric_network='gnn_iclr_nl', momentum=0.5, no_cuda=False, save_interval=300000, seed=1, test_N_shots=5, test_N_way=5, test_interval=2000, test_samples=30000, train_N_shots=5, train_N_way=5, unlabeled_extra=0)
+Using CPU
